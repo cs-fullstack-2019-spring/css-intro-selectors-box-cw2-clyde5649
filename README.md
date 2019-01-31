@@ -1,3 +1,6 @@
+### 0 POINTS
+### KEY: No submission in GitHub
+
 # CSS Intro to Selectors and Box Model
 
 ### Exercise 1:
